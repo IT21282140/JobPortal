@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="headerwidth">333dp</dimen>
+    <dimen name="headerheight">50dp</dimen>
+    <dimen name="Edtetxtsize">16dp</dimen>
+    <dimen name="headertxsize">34dp</dimen>
+    <dimen name="edtmargintop">30dp</dimen>
+    <dimen name="edtmarginright">20dp</dimen>
+    <dimen name="edtmarginleft">20dp</dimen>
+    <dimen name="buttomargintop">63dp</dimen>
+    <dimen name="buttonmargileft">20dp</dimen>
+    <dimen name="buttonmargilright">20dp</dimen>
+    <dimen name="lenearlayoutleft">20dp</dimen>
+    <dimen name="lenearlayoutright">20dp</dimen>
+    <dimen name="smbuttontxtsize">10dp</dimen>
+
+
+</resources>

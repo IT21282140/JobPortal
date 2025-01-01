@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="admin_registration">Admin Registration</string>
+    <string name="regCancel">CANCEL</string>
+    <string name="regSubmit">SUBMIT</string>
+    <string name="re_enter_password">Re-Enter Password</string>
+    <string name="regPassword">Password:</string>
+    <string name="regContact_number">Contact Number:</string>
+    <string name="regE_mail">E-Mail :</string>
+    <string name="regNic">NIC :</string>
+    <string name="regName">Name :</string>
+    <string name="user_profile">USER PROFILE</string>
+    <string name="back">BACK</string>
+    <string name="admin_list">ADMIN LIST</string>
+    <string name="proBack">BACK</string>
+    <string name="usProCancel">CANCEL</string>
+    <string name="usProUpdate">UPDATE</string>
+    <string name="manage_user_profile">MANAGE USER PROFILE</string>
+    <string name="btnAdd_new">ADD NEW</string>
+    <string name="regUname">Name</string>
+    <string name="edit">EDIT</string>
+    <string name="remove">Remove</string>
+</resources>
